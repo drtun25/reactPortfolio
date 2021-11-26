@@ -35,13 +35,13 @@ function App() {
             <h3>U-hiker</h3>
           </a>
         </h3>
-        <img src={hiker} alt />
+        <img src={hiker} alt="" />
         <h3>
           <a href="https://ghastly-fangs-36933.herokuapp.com/" className="project2">
             <h3>Melp</h3>
           </a>
         </h3>
-        <img src={melp} alt />
+        <img src={melp} alt="" />
       </div>
       <div className="col-3">
         <h3>
@@ -49,12 +49,12 @@ function App() {
             <h3>Note Taker</h3>
           </a>
         </h3>
-        <img src={note} />
+        <img src={note} alt="" />
       </div>  
     </section>
   </div>
   <footer className="contactSection" id="contact">
-    <h1>Contact Me!</h1>
+    <h1 className="contactMe resume">Contact Me!</h1>
     <p>
       <a href={6785493293}>6785493293</a>
       <a href="dotun1m@gmail.com">dotun1m@gmail.com</a>
