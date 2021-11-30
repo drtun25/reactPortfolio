@@ -1,1 +1,5 @@
 # reactPortfolio
+
+---
+permalink: /index.html
+---
